@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&center=true&vCenter=true&width=700&lines=Org-EthereaLogic.ai;Enterprise+Data+Trust+%7C+Open+Source;Databricks+%7C+Medallion+Architecture+%7C+Data+Quality;Every+claim+backed+by+passing+tests." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Org-EthereaLogic.ai;Enterprise+Data+Trust;Databricks+%7C+Data+Quality;Medallion+Architecture;Every+claim+backed+by+tests." alt="Typing SVG" />
 </p>
 
 <p align="center">
