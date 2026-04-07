@@ -27,10 +27,10 @@
 
 | Chapter | Repository | Description | Tests |
 |---------|-----------|-------------|-------|
-| **Ch 4** | [**DriftSentinel**](https://github.com/Org-EthereaLogic/DriftSentinel) | Unified platform — intake certification, drift gating, and control benchmarking in a single governed pipeline. Operator dashboard included. | **355+** |
 | **Ch 1** | [**Trusted Source Intake**](https://github.com/Org-EthereaLogic/trusted-source-intake) | Certifies every record before downstream consumption. 7 contract checks, replay detection, schema drift handling, and quarantine with explicit reasons. | **56** |
 | **Ch 2** | [**Silent Failure Prevention**](https://github.com/Org-EthereaLogic/silent-failure-prevention) | Detects when business columns collapse despite healthy schema and row counts. Distribution stability scoring, 6 publication gates, blocked Gold refresh on degradation. | **50** |
 | **Ch 3** | [**Measurable Control Effectiveness**](https://github.com/Org-EthereaLogic/measurable-control-effectiveness) | Scores data controls against known failure scenarios with precision, recall, and ground truth. Perfect recall where industry baselines missed injected drift. | **37** |
+| **Ch 4** | [**DriftSentinel**](https://github.com/Org-EthereaLogic/DriftSentinel) | Unified platform — intake certification, drift gating, and control benchmarking in a single governed pipeline. Operator dashboard included. | **355+** |
 | **Ch 5** | [**AetheriaForge**](https://github.com/Org-EthereaLogic/AetheriaForge) | Coherence-scored transformation engine — entity resolution, temporal reconciliation, and schema enforcement with append-only evidence. Published on PyPI. | **251** |
 
 ---
