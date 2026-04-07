@@ -33,6 +33,8 @@
 | **Ch 4** | [**DriftSentinel**](https://github.com/Org-EthereaLogic/DriftSentinel) | Unified platform — intake certification, drift gating, and control benchmarking in a single governed pipeline. Operator dashboard included. | **355+** |
 | **Ch 5** | [**AetheriaForge**](https://github.com/Org-EthereaLogic/AetheriaForge) | Coherence-scored transformation engine — entity resolution, temporal reconciliation, and schema enforcement with append-only evidence. Published on PyPI. | **251** |
 
+> Chapters 4 and 5 are full Databricks-deployable applications with operator dashboards, Asset Bundle deployment, and PyPI packages.
+
 ---
 
 ### 🛠 Tech Stack
