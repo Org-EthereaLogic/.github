@@ -31,7 +31,7 @@
 | **Ch 1** | [**Trusted Source Intake**](https://github.com/Org-EthereaLogic/trusted-source-intake) | Certifies every record before downstream consumption. 7 contract checks, replay detection, schema drift handling, and quarantine with explicit reasons. | **56** |
 | **Ch 2** | [**Silent Failure Prevention**](https://github.com/Org-EthereaLogic/silent-failure-prevention) | Detects when business columns collapse despite healthy schema and row counts. Distribution stability scoring, 6 publication gates, blocked Gold refresh on degradation. | **50** |
 | **Ch 3** | [**Measurable Control Effectiveness**](https://github.com/Org-EthereaLogic/measurable-control-effectiveness) | Scores data controls against known failure scenarios with precision, recall, and ground truth. Perfect recall where industry baselines missed injected drift. | **37** |
-| | [**AetheriaForge**](https://github.com/Org-EthereaLogic/AetheriaForge) | Intelligent data transformation engine — precision transforms with full audit lineage. | |
+| **Ch 5** | [**AetheriaForge**](https://github.com/Org-EthereaLogic/AetheriaForge) | Coherence-scored transformation engine — entity resolution, temporal reconciliation, and schema enforcement with append-only evidence. Published on PyPI. | **251** |
 
 ---
 
@@ -70,7 +70,7 @@
 
 | 🛡️ Data Trust | 🧪 Test-Driven | 🔓 Open Source | 📊 Production-Ready |
 |---|---|---|---|
-| Every control pattern is evidence-backed | 498+ passing tests across 4 repos | All repos run on Databricks Free Edition | Operator dashboard, CI/CD, and security scanning |
+| Every control pattern is evidence-backed | 749+ passing tests across 5 repos | All repos run on Databricks Free Edition | Operator dashboards, CI/CD, and security scanning |
 
 ---
 
