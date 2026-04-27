@@ -25,6 +25,8 @@
 
 ### 🚀 The Enterprise Data Trust Portfolio
 
+> **Benchmark headline** — Perfect challenger recall (**1.00** vs **0.8767** industry baseline) validated across **3 public datasets totaling 6.6M rows** — Census ACS, NYC TLC Taxi, UCI Adult. 100% detection of silent data corruption before it reaches executive dashboards. Methodology and preregistered experiments: [From Theory to Evidence →](https://etherealogic.ai/from-theory-to-evidence-validating-shannon-entropy-for-data-quality-at-scale/)
+
 | Chapter | Repository | Description | Tests |
 |---------|-----------|-------------|-------|
 | **Ch 1** | [**Trusted Source Intake**](https://github.com/Org-EthereaLogic/trusted-source-intake) | Certifies every record before downstream consumption. 7 contract checks, replay detection, schema drift handling, and quarantine with explicit reasons. | **56** |
@@ -34,6 +36,15 @@
 | **Ch 5** | [**AetheriaForge**](https://github.com/Org-EthereaLogic/AetheriaForge) | Coherence-scored transformation engine — entity resolution, temporal reconciliation, and schema enforcement with append-only evidence. Published on PyPI. | **304** |
 
 > Chapters 4 and 5 are full Databricks-deployable applications with operator dashboards, Asset Bundle deployment, and PyPI packages.
+
+**Quick install:**
+
+```bash
+pip install etherealogic-driftsentinel    # Ch 4 — Shannon entropy drift detection (355+ tests)
+pip install etherealogic-aetheriaforge    # Ch 5 — coherence-scored transformation engine (300+ tests)
+```
+
+Both packages are Databricks-deployable via Asset Bundles. See each repo's README for the bootstrap workflow. All five Data Trust chapter repos are MIT-licensed.
 
 ---
 
